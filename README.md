@@ -106,5 +106,5 @@ How to clean, analyze, and visualize unstructured data
 Project documentation and structuring best practices for GitHub
 
 👤 Author
-Arda Tezel
+Arda Tekin Tezel
 Software Engineering Student – Big Data & Security Enthusiast
