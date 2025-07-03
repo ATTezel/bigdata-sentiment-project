@@ -80,14 +80,14 @@ Sentiment Summary
   "neutral": 25
 }
 ```
-##Visualization
+# Visualization
 
-#📈 Data Example (CSV output)
+## 📈 Data Example (CSV output)
 title	text	sentiment	polarity	subjectivity
 Introducing: Strava + Runna Subscription	Hey r/Strava! We’ve got...	positive	0.17	0.54
 Feature Idea: Backwards Segments	When creating a segment...	neutral	0.0	0.0
 
-#💡 Key Findings
+## 💡 Key Findings
 Neutral sentiment dominates Reddit discussions about Strava (25/50 posts).
 
 Positive sentiment (19/50) indicates general user satisfaction.
@@ -96,7 +96,7 @@ Negative sentiment (6/50) often relates to app limitations and subscription pric
 
 The most mentioned themes include: subscriptions, segment features, and app updates.
 
-#🧠 What I Learned
+## 🧠 What I Learned
 How to collect social media data using official APIs (Reddit with praw)
 
 Basics of text-based sentiment classification using TextBlob
